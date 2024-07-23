@@ -1,5 +1,4 @@
-# Ex.No: 6               HOLT WINTERS METHOD
-### Date:
+# HOLT WINTERS METHOD
 ### AIM:
   To create and implement Holt Winter's Method Model using python.
 ### ALGORITHM:
@@ -15,8 +14,6 @@ datetime, and perform some initial data exploration
 Winters model to the entire dataset and make future predictions
 9. You plot the original sales data and the predictions
 ### PROGRAM:
-#### NAME : KAVINRAJA D
-#### REG NO : 212222240047
 ```py
 from statsmodels.tsa.holtwinters import ExponentialSmoothing
 import matplotlib.pyplot as plt
